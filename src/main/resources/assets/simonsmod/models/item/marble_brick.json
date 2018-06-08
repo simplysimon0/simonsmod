@@ -1,0 +1,6 @@
+{
+    "parent": "block/stone",
+    "textures": {
+        "all": "simonsmod:blocks/stone/marble_brick"
+    }
+}

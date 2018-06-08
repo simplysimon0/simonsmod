@@ -1,0 +1,30 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"back": "simonsmod:blocks/machine/breaker_back",
+					"front": "simonsmod:blocks/machine/breaker_front",
+					"side": "simonsmod:blocks/machine/breaker_side"},
+		"model": "simonsmod:redstone_activated"
+	},
+	"variants": 
+	{
+		"inventory": [{}],
+		"facing": 
+		{
+			"up"   :{},
+			"down" :{"model": "simonsmod:breaker","x":180},
+			"north":{"model": "simonsmod:breaker","x":90},
+			"east" :{"model": "simonsmod:breaker","x":90,"y":90},
+			"south":{"model": "simonsmod:breaker","x":90,"y":180},
+			"west" :{"model": "simonsmod:breaker","x":90,"y":270}
+		},
+		"triggered": 
+		{
+			"true" :{"textures": {"front": "simonsmod:blocks/machine/breaker_front_active",
+								  "side": "simonsmod:blocks/machine/breaker_side_active"}},
+			"false" :{}
+		}
+    }
+}

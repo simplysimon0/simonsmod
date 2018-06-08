@@ -1,0 +1,8 @@
+tile.alloy_bronze.name=Bronze Block
+tile.alloy_steel.name=Steel Block
+tile.alloy_electrum.name=Electrum Block
+tile.alloy_invar.name=Invar Block
+tile.alloy_constantan.name=Constantan Block
+tile.alloy_brass.name=Brass Block
+tile.alloy_toolsteel.name=Tool Steel Block
+tile.alloy_manyullyn.name=Manyullyn Block

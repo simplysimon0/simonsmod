@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped", 
+    
+    "pattern":
+    [
+        "AA",
+		"AA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+			"item": "simonsmod:granite",
+			"data":0
+        }
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:granite",
+        "data":2, 
+        "count": 4
+    }
+}

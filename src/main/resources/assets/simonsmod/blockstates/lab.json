@@ -1,0 +1,20 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper" },
+		"model": "cube_all"
+	},
+	"variants": 
+	{
+		"variant": 
+		{
+			"blank": 			{ "textures": {"all": "simonsmod:blocks/lab/lab_blank" }},
+			"bolt"   : 		{ "textures": {"all": "simonsmod:blocks/lab/lab_bolt" }},
+			"bolt_tile"   : 		{ "textures": {"all": "simonsmod:blocks/lab/lab_bolt_tile" }},
+			"floor"   : 		{ "textures": {"all": "simonsmod:blocks/lab/lab_floor" }}
+		}
+    }
+}
+

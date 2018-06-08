@@ -1,0 +1,10 @@
+{
+    "variants": {
+		"facing=up":    { "model": "simonsmod:hopper_duct", "x":180			},
+        "facing=down":  { "model": "simonsmod:hopper_duct"					},
+        "facing=north": { "model": "simonsmod:hopper_duct","x":90,"y": 180  },
+        "facing=south": { "model": "simonsmod:hopper_duct","x":90			},
+        "facing=west":  { "model": "simonsmod:hopper_duct","x":90,"y": 90 	},
+        "facing=east":  { "model": "simonsmod:hopper_duct","x":90,"y": 270	}
+    }
+}

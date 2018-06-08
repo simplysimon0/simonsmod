@@ -1,0 +1,30 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"back": "simonsmod:blocks/machine/machine",
+					"front": "simonsmod:blocks/machine/placer_front",
+					"side": "simonsmod:blocks/machine/placer_side"},
+		"model": "simonsmod:redstone_activated"
+	},
+	"variants": 
+	{
+		"inventory": [{}],
+		"facing": 
+		{
+			"up"   :{},
+			"down" :{"model": "simonsmod:redstone_activated","x":180},
+			"north":{"model": "simonsmod:redstone_activated","x":90},
+			"east" :{"model": "simonsmod:redstone_activated","x":90,"y":90},
+			"south":{"model": "simonsmod:redstone_activated","x":90,"y":180},
+			"west" :{"model": "simonsmod:redstone_activated","x":90,"y":270}
+		},
+		"triggered": 
+		{
+			"true" :{"textures": {"front": "simonsmod:blocks/machine/placer_front_active",
+								  "side": "simonsmod:blocks/machine/placer_side_active"}},
+			"false" :{}
+		}
+    }
+}

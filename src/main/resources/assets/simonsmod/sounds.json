@@ -1,0 +1,22 @@
+{
+	"alarm": {
+		"category": "block",
+		"subtitle": "alarm",
+		"sounds": [ { "name": "simonsmod:alarm", "stream": true} ]
+	},
+	"click": {
+		"category": "block",
+		"subtitle": "click",
+		"sounds": [ { "name": "simonsmod:click", "stream": true} ]
+	},
+	"wrench": {
+		"category": "players",
+		"subtitle": "wrench",
+		"sounds": [ { "name": "simonsmod:wrench", "stream": true} ]
+	},
+		"laser": {
+		"category": "players",
+		"subtitle": "laser",
+		"sounds": [ { "name": "simonsmod:laser", "stream": true} ]
+	}
+}

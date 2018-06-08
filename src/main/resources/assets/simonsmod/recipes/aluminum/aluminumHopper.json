@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+	"pattern":
+    [
+        "A A",
+		"ACA",
+		" A "
+    ],
+    "key": 
+        {
+		"A":
+			{
+            "type": "forge:ore_dict",
+            "ore": "aluminumIngot"
+			},
+		"C":
+			{
+            "type": "forge:ore_dict",
+            "ore": "chest"
+			}
+    },
+    "result": {
+        "item": "minecraft:hopper",
+        "data": 0,
+        "count":1
+    }
+}

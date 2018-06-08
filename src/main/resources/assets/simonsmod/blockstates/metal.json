@@ -1,0 +1,32 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper" },
+		"model": "cube_all"
+	},
+	"variants": 
+	{
+		"variant": 
+		{
+			"copper": { "textures": {"all": "simonsmod:blocks/resource/block/copper" }},
+			"tin": { "textures": {"all": "simonsmod:blocks/resource/block/tin" }},
+			"silver": { "textures": {"all": "simonsmod:blocks/resource/block/silver" }},
+			"lead": { "textures": {"all": "simonsmod:blocks/resource/block/lead" }},
+			"aluminum": { "textures": {"all": "simonsmod:blocks/resource/block/aluminum" }},
+			"nickel": { "textures": {"all": "simonsmod:blocks/resource/block/nickel" }},
+			"zinc": { "textures": {"all": "simonsmod:blocks/resource/block/zinc" }},
+			"platinum": { "textures": {"all": "simonsmod:blocks/resource/block/platinum" }},
+			"iridium": { "textures": {"all": "simonsmod:blocks/resource/block/iridium" }},
+			"osmium": { "textures": {"all": "simonsmod:blocks/resource/block/osmium" }},
+			"tungsten": { "textures": {"all": "simonsmod:blocks/resource/block/tungsten" }},
+			"cobalt": { "textures": {"all": "simonsmod:blocks/resource/block/cobalt" }},
+			"titanium": { "textures": {"all": "simonsmod:blocks/resource/block/titanium" }},
+			"lithium": { "textures": {"all": "simonsmod:blocks/resource/block/lithium" }},
+			"chromium": { "textures": {"all": "simonsmod:blocks/resource/block/chromium" }},
+			"bismuth": { "textures": {"all": "simonsmod:blocks/resource/block/bismuth" }}
+		}
+    }
+}
+

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped", 
+    
+    "pattern":
+    [
+        "AA",
+        "AA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+			"item": "simonsmod:lab",
+			"data":1
+        }
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:lab",
+        "data":2, 
+        "count": 4
+    }
+}

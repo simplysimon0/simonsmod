@@ -1,0 +1,37 @@
+{
+    "type": "forge:ore_shaped",
+	"pattern":
+    [
+        "CCC",
+		"ABA",
+		"ADA"
+    ],
+    "key": 
+        {
+		"D":
+			{
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+			},
+		"A":
+			{
+            "type": "forge:ore_dict",
+            "ore": "cobblestone"
+			},
+		"B":
+			{
+            "type": "forge:ore_dict",
+            "ore": "ingotAluminum"
+			},
+		"C":
+			{
+            "type": "forge:ore_dict",
+            "ore": "plankWood"
+			}	
+    },
+    "result": {
+        "item": "minecraft:piston",
+        "data": 0,
+        "count":1
+    }
+}

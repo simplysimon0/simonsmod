@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped", 
+    
+    "pattern":
+    [
+        " AA",
+		"AAA",
+		"AA "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "simonsmod:crafting",
+			"data":0
+        }
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:chalk",
+        "count": 1
+    }
+}

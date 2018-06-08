@@ -1,0 +1,21 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "transform": "forge:default-block",
+        "model": "simonsmod:energy_cube"
+    },
+    "variants": 
+    {
+        "inventory": [{}],
+        "facing": 
+        {
+            "up"   :{},
+            "down" :{"model": "simonsmod:energy_cube","x":180},
+            "north":{"model": "simonsmod:energy_cube","x":90},
+            "east" :{"model": "simonsmod:energy_cube","x":90,"y":90},
+            "south":{"model": "simonsmod:energy_cube","x":90,"y":180},
+            "west" :{"model": "simonsmod:energy_cube","x":90,"y":270}
+        }
+    }
+}

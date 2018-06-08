@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+	"pattern":
+    [
+        "ACA",
+		"AAA",
+		" A "
+    ],
+    "key": 
+        {
+		"A":
+			{
+            "type": "forge:ore_dict",
+            "ore": "plankWood"
+			},
+		"C":
+			{
+            "type": "forge:ore_dict",
+            "ore": "aluminumIngot"
+			}
+    },
+    "result": {
+        "item": "simonsmod:shield",
+        "data": 0,
+        "count":1
+    }
+}

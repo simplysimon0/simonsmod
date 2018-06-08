@@ -1,0 +1,32 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper",
+					 "particle": "simonsmod:blocks/resource/block_copper"},
+		"model": "simonsmod:flat"
+	},
+	"variants": 
+	{
+		"variant": 
+		{
+			"one":   { "textures": {
+			"all": "simonsmod:blocks/dust/dust_one", 
+			"particle": "simonsmod:blocks/dust/dust_one"}},
+			
+			"two":   { "textures": {
+			"all": "simonsmod:blocks/dust/dust_two",
+			"particle": "simonsmod:blocks/dust/dust_two"}},
+			
+			"three": { "textures": {
+			"all": "simonsmod:blocks/dust/dust_three",
+			"particle": "simonsmod:blocks/dust/dust_three"}},
+			
+			"four": { "textures": {
+			"all": "simonsmod:blocks/dust/dust_four",
+			"particle": "simonsmod:blocks/dust/dust_four"}}
+		}
+    }
+}
+

@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped", 
+    
+    "pattern":
+    [
+        "AAA",
+		"CBC",
+		" C "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:stone_slab",
+			"data":0
+        },
+        "B":
+        {
+            "item": "minecraft:water_bucket",
+            "data": 0
+        },
+        "C":
+        {
+            "item": "minecraft:iron_nugget",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:sprinkler",
+        "count": 1
+    }
+}

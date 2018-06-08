@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simonsmod",
+  "name": "Simon's Mod",
+  "description": "A mod where I, Simon, add things to minecraft that I see fit.",
+  "version": "0.3.0",
+  "mcversion": "${mcversion}",
+  "url": "ijushows.com/simonsmod",
+  "updateUrl": "",
+  "authorList": ["Simon"],
+  "credits": "Me, lol",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

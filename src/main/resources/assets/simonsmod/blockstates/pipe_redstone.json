@@ -1,0 +1,157 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"up": "simonsmod:blocks/pipe/redstone_off",
+                     "down": "simonsmod:blocks/pipe/redstone_off",
+                     "north": "simonsmod:blocks/pipe/redstone_off",
+                     "east": "simonsmod:blocks/pipe/redstone_off",
+                     "south": "simonsmod:blocks/pipe/redstone_off",
+                     "west": "simonsmod:blocks/pipe/redstone_off",
+					 "main": "simonsmod:blocks/pipe/redstone_off"},
+		"model": "simonsmod:pipe/main"
+	},
+	"variants": 
+	{
+		
+	   "inventory": [{
+			"model": "simonsmod:pipe/inventory"
+	   
+	   }],
+	   "power": 
+		{
+			"true":{
+			"textures": {
+                     "up": "simonsmod:blocks/pipe/redstone",
+                     "down": "simonsmod:blocks/pipe/redstone",
+                     "north": "simonsmod:blocks/pipe/redstone",
+                     "east": "simonsmod:blocks/pipe/redstone",
+                     "south": "simonsmod:blocks/pipe/redstone",
+                     "west": "simonsmod:blocks/pipe/redstone",
+					 "main": "simonsmod:blocks/pipe/redstone"
+					 }
+            },
+			"false":{}
+		},
+		"up": 
+		{
+			"true":{
+                
+                "submodel": {
+                    "up":   { "model": "simonsmod:pipe/end", "x":180}
+                }
+                
+            },
+			"false":{}
+		},
+		"down": 
+        {
+            "true":{
+                
+                "submodel": {
+                    "down":   { "model": "simonsmod:pipe/end"}
+                }
+                
+            },
+            "false":{}
+        },
+        "north": 
+        {
+            "true":{
+                
+                "submodel": {
+                    "north":   { "model": "simonsmod:pipe/end","x":90,"y": 180}
+                }
+                
+            },
+            "false":{}
+        },
+        "east": 
+        {
+            "true":{
+                
+                "submodel": {
+                    "east":   { "model": "simonsmod:pipe/end","x":90,"y": 270}
+                }
+                
+            },
+            "false":{}
+        },
+		"south": 
+        {
+            "true":{
+                
+                "submodel": {
+                    "south":   { "model": "simonsmod:pipe/end", "x":90}
+                }
+                
+            },
+            "false":{}
+        },
+        "west": 
+        {
+            "true":{
+                
+                "submodel": {
+                    "west":   { "model": "simonsmod:pipe/end","x":90,"y": 90}
+                }
+                
+            },
+            "false":{}
+        },
+		"ud": 
+		{
+			"true":{
+			     "submodel": {
+                    "middle":   { "model": "simonsmod:pipe/middle"}
+                    },
+			     "textures": {
+                     "up": "simonsmod:blocks/pipe/clear",
+                     "down": "simonsmod:blocks/pipe/clear",
+                     "north": "simonsmod:blocks/pipe/clear",
+                     "east": "simonsmod:blocks/pipe/clear",
+                     "south": "simonsmod:blocks/pipe/clear",
+                     "west": "simonsmod:blocks/pipe/clear"
+                     }
+			},
+			"false":{}
+		},
+		"ns": 
+		{
+			"true":{
+			     "submodel": {
+                    "middle":   { "model": "simonsmod:pipe/middle", "x":90}
+                },
+			    "textures": {
+                     "up": "simonsmod:blocks/pipe/clear",
+                     "down": "simonsmod:blocks/pipe/clear",
+                     "north": "simonsmod:blocks/pipe/clear",
+                     "east": "simonsmod:blocks/pipe/clear",
+                     "south": "simonsmod:blocks/pipe/clear",
+                     "west": "simonsmod:blocks/pipe/clear"
+                     }
+			},
+			"false":{}
+		},
+		"ew": 
+		{
+			"true":{
+			     "submodel": {
+                    "middle":   { "model": "simonsmod:pipe/middle","y":90, "x":90}
+                },
+                "textures": {
+                     "up": "simonsmod:blocks/pipe/clear",
+                     "down": "simonsmod:blocks/pipe/clear",
+                     "north": "simonsmod:blocks/pipe/clear",
+                     "east": "simonsmod:blocks/pipe/clear",
+                     "south": "simonsmod:blocks/pipe/clear",
+                     "west": "simonsmod:blocks/pipe/clear"
+                     }
+			},
+			"false":{}
+		}
+		
+    }
+}
+

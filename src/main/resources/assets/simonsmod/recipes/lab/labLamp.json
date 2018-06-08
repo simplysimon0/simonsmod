@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped", 
+    
+    "pattern":
+    [
+        "BA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+			"item": "simonsmod:lab",
+			"data":0
+        },
+        "B":
+        {
+            "item": "minecraft:glowstone_dust",
+            "data":0
+        }
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:lab",
+        "data":1, 
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "simonsmod:block/machines/base_to_the_base",
+    "textures": {
+		"bottom":"blocks/furnace_top",
+        "top":   "blocks/furnace_top",
+        "front": "blocks/furnace_front_off",
+        "side":  "blocks/furnace_side"
+    }
+}

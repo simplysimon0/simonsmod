@@ -1,0 +1,25 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"crop": "simonsmod:blocks/crop/cannabis0" },
+		"model": "simonsmod:crop_cannabis"
+	},
+	"variants": 
+	{
+		"age": 
+		{
+			"0":{ "textures": {"crop": "simonsmod:blocks/crop/cannabis0" }},
+			"1":{ "textures": {"crop": "simonsmod:blocks/crop/cannabis1" }},
+			"2":{ "textures": {"crop": "simonsmod:blocks/crop/cannabis2" }},
+			"3":{ "textures": {"crop": "simonsmod:blocks/crop/cannabis3" }},
+			"4":{ "textures": {"crop": "simonsmod:blocks/crop/cannabis4" }},
+			"5":{ "textures": {"crop": "simonsmod:blocks/crop/cannabis5" }},
+			"6":{ "textures": {"crop": "simonsmod:blocks/crop/cannabis6" }},
+			"7":{ "textures": {"crop": "simonsmod:blocks/crop/cannabis7" }}
+
+		}
+    }
+}
+

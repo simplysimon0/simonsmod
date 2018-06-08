@@ -1,0 +1,26 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper" },
+		"model": "simonsmod:placer"
+	},
+	"variants": 
+	{
+		"facing": 
+		{
+			"up"   :{"model": "simonsmod:placer","x":90},
+			"down" :{"model": "simonsmod:placer","x":270},
+			"north":{},
+			"east" :{"model": "simonsmod:placer","y":90},
+			"south":{"model": "simonsmod:placer","y":270},
+			"west" :{"model": "simonsmod:placer","y":270}
+		},
+		"triggered": 
+		{
+			"true" :{},
+			"false" :{}
+		}
+    }
+}

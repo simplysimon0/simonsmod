@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped", 
+    
+    "pattern":
+    [
+        " A ",
+        "ABA",
+        " A "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "B":
+        {
+            "item": "minecraft:chest",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:hopper_duct",
+        "count": 6
+    }
+}

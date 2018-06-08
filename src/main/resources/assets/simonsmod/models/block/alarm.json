@@ -1,0 +1,24 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+	"side": "simonsmod:blocks/machine/alarm_side",
+    "top": "simonsmod:blocks/machine/alarm_top_1",
+	"bottom": "simonsmod:blocks/machine/alarm_bottom",
+	"particle": "simonsmod:blocks/machine/alarm_bottom"
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 2.0, 0.0, 2.0 ], 
+            "to": [ 14.0, 5.0, 14.0 ], 
+            "faces": {
+                "north": { "texture": "#side"},
+                "east": { "texture": "#side"},
+                "south": { "texture": "#side"},
+                "west": { "texture": "#side"},
+                "up": { "texture": "#top"},
+                "down": { "texture": "#bottom"}
+            }
+        }
+    ]
+}

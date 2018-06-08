@@ -1,0 +1,32 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper" },
+		"model": "simonsmod:alarm"
+	},
+	"variants": 
+	{
+	   "fluid":
+	   {
+	     "model":"forge:fluid",
+	     "custom": {"fluid": "fluid_mercury"}  
+	   },
+		"inventory": 
+		{
+			"model":"forge:forgebucket",
+			"textures":{
+				"base": "forge:items/bucket_base",
+				"fluid": "simonsmod:items/fluids/bucket",
+				"cover": "forge:items/bucket_cover"
+				},
+				"transform": "forge:default-item",
+				"custom": {
+					"fluid": "fluid_mercury",
+					"flipGas": true
+				}
+		}
+    }
+}
+

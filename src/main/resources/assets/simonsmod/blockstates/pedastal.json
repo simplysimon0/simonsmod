@@ -1,0 +1,24 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper",
+					 "particle": "simonsmod:blocks/resource/block_copper"},
+		"model": "simonsmod:pedastal"
+	},
+	"variants": 
+	{
+		"inventory": [{}],
+		"facing": 
+		{
+			"north":{},
+			"east":{},
+			"south":{},
+			"west":{},
+			"up":{},
+			"down":{}
+		}
+    }
+}
+

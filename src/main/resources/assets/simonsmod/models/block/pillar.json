@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "simonsmod:blocks/lab/lab_pillar", "end": "simonsmod:blocks/lab/lab_pillar_top"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+	"pattern":
+    [
+        " A ",
+		"ABA",
+		" A "
+    ],
+    "key": 
+        {
+		"A":
+			{
+            "type": "forge:ore_dict",
+            "ore": "ingotAluminum"
+			},
+		"B":
+			{
+            "type": "forge:ore_dict",
+            "ore": "redstoneDusut"
+			}	
+    },
+    "result": {
+        "item": "minecraft:compass",
+        "data": 0,
+        "count":1
+    }
+}

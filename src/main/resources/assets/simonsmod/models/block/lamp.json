@@ -1,0 +1,35 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+	"overlay": "simonsmod:blocks/lamp/overlay/black",
+	"particle": "#lamp"
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 16.0, 16.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#lamp", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "east": { "texture": "#lamp", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "south": { "texture": "#lamp", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "west": { "texture": "#lamp", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "up": { "texture": "#lamp", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "down": { "texture": "#lamp", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        },
+        {
+            "name": "Overlay",
+            "from": [ -0.5, -0.5, -0.5 ], 
+            "to": [ 16.5, 16.5, 16.5 ], 
+            "faces": {
+                "north": { "texture": "#overlay", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "east": { "texture": "#overlay", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "south": { "texture": "#overlay", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "west": { "texture": "#overlay", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "up": { "texture": "#overlay", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "down": { "texture": "#overlay", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        }
+    ]
+}

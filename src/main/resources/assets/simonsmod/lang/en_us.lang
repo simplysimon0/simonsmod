@@ -1,0 +1,322 @@
+item.cannabis.name=Cannabis
+item.classic_pipe.name=Pipe
+item.joint.name=Joint
+item.chalk.name=Chalk
+item.chalk_dust.name=Chalk Powder
+item.rubber.name=Rubber
+
+item.dust_iron.name=Iron Dust
+item.dust_gold.name=Gold Dust
+item.dust_diamond.name=Diamond Dust
+item.dust_coal.name=Coal Dust
+item.dust_lapis.name=Lapis Dust
+item.dust_obsidian.name=Obsidian Dust
+item.plate_iron.name=Iron Plate
+item.plate_gold.name=Gold Plate
+item.plate_lapis.name=Lapis Plate
+item.plate_obsidian.name=Obsidian Plate
+item.gear_iron.name=Iron Gear
+item.gear_gold.name=Gold Gear
+item.gear_diamond.name=Diamond Gear
+item.metal_ore_diamond.name=Diamond Nugget
+item.metal_ore_emerald.name=Emerald Nugget
+
+item.ingot_copper.name=Copper Ingot
+item.ingot_tin.name=Tin Ingot
+item.ingot_silver.name=Silver Ingot
+item.ingot_lead.name=Lead Ingot
+item.ingot_aluminum.name=Aluminum Ingot
+item.ingot_nickel.name=Nickel Ingot
+item.ingot_zinc.name=Zinc Ingot
+item.ingot_platinum.name=Platinum Ingot
+item.ingot_iridium.name=§bIridium Ingot
+item.ingot_osmium.name=Osmium Ingot
+item.ingot_tungsten.name=Tungsten Ingot
+item.ingot_cobalt.name=Cobalt Ingot
+item.ingot_titanium.name=Titanium Ingot
+item.ingot_lithium.name=Lithium Ingot
+item.ingot_chromium.name=Chromium Ingot
+item.ingot_bismuth.name=Bismuth Ingot
+
+item.ingot_bronze.name=Bronze Ingot
+item.ingot_steel.name=Steel Ingot
+item.ingot_electrum.name=Electrum Ingot
+item.ingot_invar.name=Invar Ingot
+item.ingot_constantan.name=Constantan Ingot
+item.ingot_brass.name=Brass Ingot
+item.ingot_toolsteel.name=Tool Steel Ingot
+item.ingot_manyullyn.name=Manyullyn Ingot
+
+item.dust_copper.name=Copper Dust
+item.dust_tin.name=Tin Dust
+item.dust_silver.name=Silver Dust
+item.dust_lead.name=Lead Dust
+item.dust_aluminum.name=Aluminum Dust
+item.dust_nickel.name=Nickel Dust
+item.dust_zinc.name=Zinc Dust
+item.dust_platinum.name=Platinum Dust
+item.dust_iridium.name=§bIridium Dust
+item.dust_osmium.name=Osmium Dust
+item.dust_tungsten.name=Tungsten Dust
+item.dust_cobalt.name=Cobalt Dust
+item.dust_titanium.name=Titanium Dust
+item.dust_lithium.name=Lithium Dust
+item.dust_chromium.name=Chromium Dust
+item.dust_bismuth.name=Bismuth Dust
+
+item.dust_bronze.name=Bronze Dust
+item.dust_steel.name=Steel Dust
+item.dust_electrum.name=Electrum Dust
+item.dust_invar.name=Invar Dust
+item.dust_constantan.name=Constantan Dust
+item.dust_brass.name=Brass Dust
+item.dust_toolsteel.name=Tool Steel Dust
+item.dust_manyullyn.name=Manyullyn Dust
+
+item.plate_copper.name=Copper Plate
+item.plate_tin.name=Tin Plate
+item.plate_silver.name=Silver Plate
+item.plate_lead.name=Lead Plate
+item.plate_aluminum.name=Aluminum Plate
+item.plate_nickel.name=Nickel Plate
+item.plate_zinc.name=Zinc Plate
+item.plate_platinum.name=Platinum Plate
+item.plate_iridium.name=§bIridium Plate
+item.plate_osmium.name=Osmium Plate
+item.plate_tungsten.name=Tungsten Plate
+item.plate_cobalt.name=Cobalt Plate
+item.plate_titanium.name=Titanium Plate
+item.plate_lithium.name=Lithium Plate
+item.plate_chromium.name=Chromium Plate
+item.plate_bismuth.name=Bismuth Plate
+
+item.plate_bronze.name=Bronze Plate
+item.plate_steel.name=Steel Plate
+item.plate_electrum.name=Electrum Plate
+item.plate_invar.name=Invar Plate
+item.plate_constantan.name=Constantan Plate
+item.plate_brass.name=Brass Plate
+item.plate_toolsteel.name=Tool Steel Plate
+item.plate_manyullyn.name=Manyullyn Plate
+
+item.gear_copper.name=Copper Gear
+item.gear_tin.name=Tin Gear
+item.gear_silver.name=Silver Gear
+item.gear_lead.name=Lead Gear
+item.gear_aluminum.name=Aluminum Gear
+item.gear_nickel.name=Nickel Gear
+item.gear_zinc.name=Zinc Gear
+item.gear_platinum.name=Platinum Gear
+item.gear_iridium.name=§bIridium Gear
+item.gear_osmium.name=Osmium Gear
+item.gear_tungsten.name=Tungsten Gear
+item.gear_cobalt.name=Cobalt Gear
+item.gear_titanium.name=Titanium Gear
+item.gear_lithium.name=Lithium Gear
+item.gear_chromium.name=Chromium Gear
+item.gear_bismuth.name=Bismuth Gear
+
+item.gear_bronze.name=Bronze Gear
+item.gear_steel.name=Steel Gear
+item.gear_electrum.name=Electrum Gear
+item.gear_invar.name=Invar Gear
+item.gear_constantan.name=Constantan Gear
+item.gear_brass.name=Brass Gear
+item.gear_toolsteel.name=Tool Steel Gear
+item.gear_manyullyn.name=Manyullyn Gear
+
+item.nugget_copper.name=Copper Nugget
+item.nugget_tin.name=Tin Nugget
+item.nugget_silver.name=Silver Nugget
+item.nugget_lead.name=Lead Nugget
+item.nugget_aluminum.name=Aluminum Nugget
+item.nugget_nickel.name=Nickel Nugget
+item.nugget_zinc.name=Zinc Nugget
+item.nugget_platinum.name=Platinum Nugget
+item.nugget_iridium.name=§bIridium Nugget
+item.nugget_osmium.name=Osmium Nugget
+item.nugget_tungsten.name=Tungsten Nugget
+item.nugget_cobalt.name=Cobalt Nugget
+item.nugget_titanium.name=Titanium Nugget
+item.nugget_lithium.name=Lithium Nugget
+item.nugget_chromium.name=Chromium Nugget
+item.nugget_bismuth.name=Bismuth Nugget
+
+item.nugget_bronze.name=Bronze Nugget
+item.nugget_steel.name=Steel Nugget
+item.nugget_electrum.name=Electrum Nugget
+item.nugget_invar.name=Invar Nugget
+item.nugget_constantan.name=Constantan Nugget
+item.nugget_brass.name=Brass Nugget
+item.nugget_toolsteel.name=Tool Steel Nugget
+item.nugget_manyullyn.name=Manyullyn Nugget
+
+item.clay_ceramic.name=Ceramic Clay
+item.tile_ceramic.name=Ceramic Tile
+item.pickaxe_bronze.name=Bronze Pickaxe
+item.shovel_bronze.name=Bronze Shovel
+item.axe_bronze.name=Bronze Axe
+item.paxel_bronze.name=Bronze Paxel
+item.paxel_iron.name=Iron Paxel
+item.paxel_diamond.name=Diamond Paxel
+
+
+item.tool_hammer.name=Forge Hammer
+item.tool_mortarpestle.name=Mortal and Pestle
+item.tool_wrench.name=Simon's Wrench
+item.tool_laser.name=Simon's Laser [Broken, Do Not Use]
+item.laser.name=Simon's Laser [Broken, Do Not Use]
+
+tile.lab_half_slab.name=Lab Slab
+
+tile.sprinkler.name=Sprinkler
+tile.crop_pot.name=Crop Pot
+
+tile.metal_copper.name=Copper Block
+tile.metal_tin.name=Tin Block
+tile.metal_silver.name=Silver Block
+tile.metal_lead.name=Lead Block
+tile.metal_aluminum.name=Aluminum Block
+tile.metal_nickel.name=Nickel Block
+tile.metal_zinc.name=Zinc Block
+tile.metal_platinum.name=Platinum Block
+tile.metal_iridium.name=§bIridium Block
+tile.metal_osmium.name=Osmium Block
+tile.metal_tungsten.name=Tungsten Block
+tile.metal_cobalt.name=Cobalt Block
+tile.metal_titanium.name=Titanium Block
+tile.metal_lithium.name=Lithium Block
+tile.metal_chromium.name=Chromium Block
+tile.metal_bismuth.name=Bismuth Block
+
+tile.metal_ore_copper.name=Copper Ore
+tile.metal_ore_tin.name=Tin Ore
+tile.metal_ore_silver.name=Silver Ore
+tile.metal_ore_lead.name=Lead Ore
+tile.metal_ore_aluminum.name=Aluminum Ore
+tile.metal_ore_nickel.name=Nickel Ore
+tile.metal_ore_zinc.name=Zinc Ore
+tile.metal_ore_platinum.name=Platinum Ore
+tile.metal_ore_iridium.name=§bIridium Ore
+tile.metal_ore_osmium.name=Osmium Ore
+tile.metal_ore_tungsten.name=Tungsten Ore
+tile.metal_ore_cobalt.name=Cobalt Ore
+tile.metal_ore_titanium.name=Titanium Ore
+tile.metal_ore_lithium.name=Lithium Ore
+tile.metal_ore_chromium.name=Chromium Ore
+tile.metal_ore_bismuth.name=Bismuth Ore
+
+tile.misc_ore_chalk.name=Chalk Ore
+
+
+tile.soil_grey_sand.name=Grey Sand
+tile.pedastal.name=Philosopher's Pedastal
+tile.alarm.name=Alarm
+
+tile.marble_stone.name=Marble
+tile.marble_cobble.name=Marble Cobblestone
+tile.marble_brick.name=Marble Bricks
+tile.marble_brick_alt.name=Marble Bricks Alt.
+tile.marble_brick_small.name=Marble Small Bricks
+tile.marble_pannel.name=Marble Pannel
+
+tile.basalt_stone.name=Basalt
+tile.basalt_cobble.name=Basalt Cobblestone
+tile.basalt_brick.name=Basalt Bricks
+tile.basalt_brick_alt.name=Basalt Bricks Alt.
+tile.basalt_brick_small.name=Basalt Small Bricks
+tile.basalt_pannel.name=Basalt Pannel
+
+tile.gneiss_stone.name=Gneiss
+tile.gneiss_cobble.name=Gneiss Cobblestone
+tile.gneiss_brick.name=Gneiss Bricks
+tile.gneiss_brick_alt.name=Gneiss Bricks Alt.
+tile.gneiss_brick_small.name=Gneiss Small Bricks
+tile.gneiss_pannel.name=Gneiss Pannel
+
+tile.granite_stone.name=Granite 
+tile.diorite_stone.name=Diorite 
+tile.andesite_stone.name=Andesite 
+
+tile.granite_brick.name=Granite Brick
+tile.diorite_brick.name=Diorite Brick
+tile.andesite_brick.name=Andesite Brick
+
+tile.granite_cobble.name=Granite Cobblestone
+tile.diorite_cobble.name=Diorite Cobblestone
+tile.andesite_cobble.name=Andesite Cobblestone
+
+tile.granite_pannel.name=Granite Pannel
+tile.diorite_pannel.name=Diorite Pannel
+tile.andesite_pannel.name=Andesite Pannel
+
+tile.color_lamp_black.name=Black Lamp
+tile.color_lamp_red.name=Red Lamp
+tile.color_lamp_green.name=Green Lamp
+tile.color_lamp_brown.name=Brown Lamp
+tile.color_lamp_blue.name=Blue Lamp
+tile.color_lamp_purple.name=Purple Lamp
+tile.color_lamp_cyan.name=Cyan Lamp
+tile.color_lamp_silver.name=Silver Lamp
+tile.color_lamp_gray.name=Gray Lamp
+tile.color_lamp_pink.name=Pink Lamp
+tile.color_lamp_lime.name=Lime Lamp
+tile.color_lamp_yellow.name=Yellow Lamp
+tile.color_lamp_lightblue.name=Light Blue Lamp
+tile.color_lamp_magenta.name=Magenta Lamp
+tile.color_lamp_orange.name=Orange Lamp
+tile.color_lamp_white.name=White Lamp
+
+tile.tile_black.name=Black Tiles
+tile.tile_red.name=Red Tiles
+tile.tile_green.name=Green Tiles
+tile.tile_brown.name=Brown Tiles
+tile.tile_blue.name=Blue Tiles
+tile.tile_purple.name=Purple Tiles
+tile.tile_cyan.name=Cyan Tiles
+tile.tile_silver.name=Silver Tiles
+tile.tile_gray.name=Gray Tiles
+tile.tile_pink.name=Pink Tiles
+tile.tile_lime.name=Lime Tiles
+tile.tile_yellow.name=Yellow Tiles
+tile.tile_lightblue.name=Light Blue Tiles
+tile.tile_magenta.name=Magenta Tiles
+tile.tile_orange.name=Orange Tiles
+tile.tile_white.name=White Tiles
+
+tile.lab_blank.name=Lab Block
+tile.lab_bolt.name=Lab Bolt
+tile.lab_bolt_tile.name=Lab Tile Bolt
+tile.lab_floor.name=Lab Floor
+tile.lab_pillar.name=Lab Pillar
+tile.lab_wall.name=Lab Wall
+
+tile.hopper_duct.name=Hopper Duct
+tile.hopper_omni.name=Omni Hopper
+
+
+tile.chair.name=Chair (BROKEN DONT USE)
+
+tile.dust_one.name=Dust One
+tile.dust_two.name=Dust Two
+tile.dust_three.name=Dust Three
+
+container.hopper_duct=Hopper Duct
+container.hopper_omni=Omni Hopper
+container.placer=Block Placer
+container.breaker=Block Breaker
+
+tile.stone.graniteSmooth.name=Granite Bricks
+tile.stone.dioriteSmooth.name=Diorite Bricks
+tile.stone.andesiteSmooth.name=Andesite Bricks
+tile.alloy_bronze.name=Bronze Block
+tile.alloy_steel.name=Steel Block
+tile.alloy_electrum.name=Electrum Block
+tile.alloy_invar.name=Invar Block
+tile.alloy_constantan.name=Constantan Block
+tile.alloy_brass.name=Brass Block
+tile.alloy_toolsteel.name=Tool Steel Block
+tile.alloy_manyullyn.name=Manyullyn Block
+
+tile.placer.name=Block Placer
+tile.breaker.name=Block Breaker

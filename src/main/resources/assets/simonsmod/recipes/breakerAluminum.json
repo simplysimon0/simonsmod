@@ -1,0 +1,37 @@
+{
+    "type": "forge:ore_shaped",
+	"pattern":
+    [
+        "IAI",
+		"IPI",
+		"IRI"
+    ],
+    "key": 
+        {
+		"P":
+			{
+            "item": "minecraft:piston",
+            "data": 0
+			},
+		"A":
+			{
+            "item": "simonsmod:paxel_iron",
+            "data": 0
+			},
+		"R":
+			{
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+			},
+		"I":
+			{
+            "type": "forge:ore_dict",
+            "ore": "plateAluminum"
+			}			
+    },
+    "result": {
+        "item": "simonsmod:breaker",
+        "data": 0,
+        "count":1
+    }
+}

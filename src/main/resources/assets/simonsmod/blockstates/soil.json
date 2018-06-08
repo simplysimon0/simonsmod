@@ -1,0 +1,17 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper" },
+		"model": "cube_all"
+	},
+	"variants": 
+	{
+		"variant": 
+		{
+			"grey_sand"   : { "textures": {"all": "simonsmod:blocks/soil/grey_sand" }}
+		}
+    }
+}
+

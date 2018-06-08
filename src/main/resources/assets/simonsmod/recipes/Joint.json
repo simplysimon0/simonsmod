@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped", 
+    
+    "pattern":
+    [
+        "AB"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:paper",
+			"data":0
+        },
+        "B":
+        {
+            "item": "simonsmod:cannabis",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:joint",
+        "count": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern":
+    [
+        "ACA",
+        "ABA",
+        " A "
+    ],
+    
+    "key":
+    {
+        "C":
+			{
+            "type": "forge:ore_dict",
+            "ore": "ingotAluminum"
+		},
+        "B":
+        {
+            "item": "minecraft:chest",
+            "data": 0
+        },
+		"C":
+			{
+            "type": "forge:ore_dict",
+            "ore": "gearBronze"
+		}
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:hopper_omni",
+        "count": 1
+    }
+}

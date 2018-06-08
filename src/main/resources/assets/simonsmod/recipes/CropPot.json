@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped", 
+    
+    "pattern":
+    [
+        "ABA",
+        "ABA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:hardened_clay",
+			"data":0
+        },
+        "B":
+        {
+            "item": "minecraft:dirt",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:crop_pot",
+        "count": 2
+    }
+}

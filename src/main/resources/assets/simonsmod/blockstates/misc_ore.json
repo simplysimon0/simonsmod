@@ -1,0 +1,18 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper" },
+		"model": "cube_all"
+	},
+	"variants": {
+	   "inventory": [{}],
+		"variant": {
+			"chalk": { "textures": {"all": "simonsmod:blocks/resource/ore/chalk" }},
+			"rubber": { "textures": {"all": "simonsmod:blocks/resource/ore/rubber_oak" }}
+		}
+		
+    }
+		
+}
+

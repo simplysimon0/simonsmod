@@ -1,0 +1,26 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"crop": "simonsmod:blocks/crop/cannabis0" },
+		"model": "simonsmod:crop_pot"
+	},
+	"variants": 
+	{
+	
+		"moisture": 
+		{
+			"0":{ "textures": {"farmland": "blocks/farmland_dry" }},
+			"1":{ "textures": {"farmland": "blocks/farmland_wet" }},
+			"2":{ "textures": {"farmland": "blocks/farmland_wet" }},
+			"3":{ "textures": {"farmland": "blocks/farmland_wet" }},
+			"4":{ "textures": {"farmland": "blocks/farmland_wet" }},
+			"5":{ "textures": {"farmland": "blocks/farmland_wet" }},
+			"6":{ "textures": {"farmland": "blocks/farmland_wet" }},
+			"7":{ "textures": {"farmland": "blocks/farmland_wet" }}
+
+		}
+    }
+}
+

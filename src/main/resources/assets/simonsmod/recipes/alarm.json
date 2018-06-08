@@ -1,0 +1,32 @@
+{
+    "type": "forge:ore_shaped",
+	"pattern":
+    [
+        "CAC",
+		"ABA",
+		"CAC"
+    ],
+    "key": 
+        {
+		"B":
+			{
+            "item": "minecraft:noteblock",
+            "data": 0
+			},
+		"A":
+			{
+            "type": "forge:ore_dict",
+            "ore": "plateBronze"
+			},
+		"C":
+			{
+            "type": "forge:ore_dict",
+            "ore": "dustRedstone"
+			}	
+    },
+    "result": {
+        "item": "simonsmod:alarm",
+        "data": 0,
+        "count":1
+    }
+}

@@ -1,0 +1,27 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper" },
+		"model": "simonsmod:alarm"
+	},
+	"variants": 
+	{
+	   "inventory": [{}],
+	   "powered":
+	   {
+	     "true":{},
+	     "false":{}  
+	   },
+		"volume": 
+		{
+			"0":{ "textures": {"top": "simonsmod:blocks/machine/alarm_top_1" }},
+			"1":{ "textures": {"top": "simonsmod:blocks/machine/alarm_top_2" }},
+			"2":{ "textures": {"top": "simonsmod:blocks/machine/alarm_top_3" }},
+			"3":{ "textures": {"top": "simonsmod:blocks/machine/alarm_top_4" }},
+			"4":{ "textures": {"top": "simonsmod:blocks/machine/alarm_top_5" }}
+		}
+    }
+}
+

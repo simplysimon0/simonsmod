@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    },
+    "textures": {
+        "particle": "simonsmod:blocks/machine/energy_cell_in",
+        "down": "simonsmod:blocks/machine/energy_cell_in",
+        "up": "simonsmod:blocks/machine/energy_cell_out",
+        "north": "simonsmod:blocks/machine/energy_cell_in",
+        "east": "simonsmod:blocks/machine/energy_cell_in",
+        "south": "simonsmod:blocks/machine/energy_cell_in",
+        "west": "simonsmod:blocks/machine/energy_cell_in"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped", 
+    
+    "pattern":
+    [
+        "A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+			"item": "simonsmod:marble",
+			"data":0
+        }
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:marble",
+        "data":3, 
+        "count": 1
+    }
+}

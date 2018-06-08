@@ -1,0 +1,33 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper" },
+		"model": "cube_all"
+	},
+	"variants": 
+	{
+		"variant": 
+		{
+			"black":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_black" }},
+			"blue":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_blue" }},
+			"brown":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_brown" }},
+			"cyan":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_cyan" }},
+			"silver":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_silver" }},
+			"gray":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_gray" }},
+			"green":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_green" }},
+			"lightblue":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_light_blue" }},
+			"lime":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_lime" }},
+			"magenta":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_magenta" }},
+			"orange":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_orange" }},
+			"pink":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_pink" }},
+			"purple":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_purple" }},
+			"red":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_red" }},
+			"white":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_white" }},
+			"yellow":{ "textures": {"all": "simonsmod:blocks/lamp/lamp_yellow" }}
+			
+		}
+    }
+}
+

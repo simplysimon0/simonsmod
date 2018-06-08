@@ -1,0 +1,54 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {
+		  "wall": "simonsmod:blocks/lab/lab_blank",
+		  "all": "simonsmod:blocks/lab/lab_blank",
+		  "particle": "simonsmod:blocks/lab/lab_blank" }
+		
+	},
+	"variants": 
+	{
+		"inventory": [{"model": "minecraft:cobblestone_wall_inventory"}],
+		"up": {
+            "true": {"model": "minecraft:wall_post"},
+            "false": {"model": "simonsmod:clear"}
+        },
+		"north": {
+            "true": { "submodel": "simonsmod:wall_side"},
+            "false": {}
+        },
+		"south": {
+            "true": { "submodel": "simonsmod:wall_side","y":180},
+            "false": {}
+        },
+		"east": {
+            "true": { "submodel": "simonsmod:wall_side","y": 90},
+            "false": {}
+        },
+		"west": {
+            "true": { "submodel": "simonsmod:wall_side","y": 270 },
+            "false": {}
+        },
+		"northwest" :{
+            "true": { "submodel": "simonsmod:wall_side_angle","y":270},
+            "false": {}
+        },
+		"southeast": {
+            "true": { "submodel": "simonsmod:wall_side_angle","y":90},
+            "false": {}
+        },
+		"northeast": {
+            "true": { "submodel": "simonsmod:wall_side_angle","y": 180},
+            "false": {}
+        },
+		"southwest": {
+            "true": { "submodel": "simonsmod:wall_side_angle" },
+            "false": {}
+        }
+		
+    }
+}
+

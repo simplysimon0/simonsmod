@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped", 
+    
+    "pattern":
+    [
+        " B ",
+		"ABA",
+		"AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+			"item": "minecraft:stone",
+			"data":0
+        },
+		"B":
+        {
+			"item": "minecraft:flint",
+			"data":0
+        }
+    },
+    
+    "result":
+    {
+        "item": "simonsmod:tool_mortarpestle",
+        "data":0
+    }
+}

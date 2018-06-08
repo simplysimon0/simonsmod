@@ -1,0 +1,6 @@
+{
+    "parent": "simonsmod:item/gun",
+    "textures": {
+        "layer0": "simonsmod:items/tools/tool_laser"
+    }
+}

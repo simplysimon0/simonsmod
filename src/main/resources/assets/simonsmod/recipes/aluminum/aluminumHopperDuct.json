@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+	"pattern":
+    [
+        " A ",
+		"ABA",
+		" A "
+    ],
+    "key": 
+        {
+		"A":
+			{
+            "type": "forge:ore_dict",
+            "ore": "ingotAluminum"
+			},
+		"B":
+			{
+            "type": "forge:ore_dict",
+            "ore": "chest"
+			}
+    },
+    "result": {
+        "item": "simonsmod:hopper_duct",
+        "data": 0,
+        "count":6
+    }
+}

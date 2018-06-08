@@ -1,0 +1,22 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper" },
+		"model": "cube_all"
+	},
+	"variants": 
+	{
+		"variant": 
+		{
+			"stone": 			{ "textures": {"all": "simonsmod:blocks/stone/basalt_stone" }},
+			"brick"   : 		{ "textures": {"all": "simonsmod:blocks/stone/basalt_brick" }},
+			"brick_alt"   : 	{ "textures": {"all": "simonsmod:blocks/stone/basalt_brick_alt" }},
+			"brick_small"   : 	{ "textures": {"all": "simonsmod:blocks/stone/basalt_brick_small" }},
+			"cobble"   : 		{ "textures": {"all": "simonsmod:blocks/stone/basalt_cobble" }},
+			"pannel"   : 		{ "textures": {"all": "simonsmod:blocks/stone/basalt_pannel" }}
+		}
+    }
+}
+

@@ -1,0 +1,32 @@
+{
+    "type": "forge:ore_shaped",
+	"pattern":
+    [
+        "ABA",
+		"ACA",
+		"ABA"
+    ],
+    "key": 
+        {
+		"A":
+			{
+            "type": "forge:ore_dict",
+            "ore": "ingotAluminum"
+			},
+		"B":
+			{
+            "type": "forge:ore_dict",
+            "ore": "stick"
+			},
+		"B":
+			{
+            "item": "minecraft:redstone_torch",
+            "data": 0
+			}
+    },
+    "result": {
+        "item": "minecraft:activator_rail",
+        "data": 0,
+        "count":6
+    }
+}

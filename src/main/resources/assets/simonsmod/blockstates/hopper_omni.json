@@ -1,0 +1,21 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/resource/block_copper" },
+		"model": "simonsmod:hopper_omni"
+	},
+	"variants": 
+	{
+		"facing": 
+		{
+			"up"   :{"model": "simonsmod:hopper_omni","x":180},
+			"down" :{},
+			"north":{"model": "simonsmod:hopper_omni","x":90,"y": 180},
+			"east" :{"model": "simonsmod:hopper_omni","x":90,"y": 270},
+			"south":{"model": "simonsmod:hopper_omni","x":90},
+			"west" :{"model": "simonsmod:hopper_omni","x":90, "y":90}
+		}
+    }
+}

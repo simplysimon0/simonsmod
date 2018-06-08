@@ -1,0 +1,24 @@
+{
+	"forge_marker": 1,
+	"defaults":
+	{
+		"transform": "forge:default-block",
+		"textures": {"all": "simonsmod:blocks/lab/lab_blank" },
+		"model": "simonsmod:slab"
+	},
+	"variants": 
+	{
+		"inventory": [{}],
+		"facing": 
+		{
+			"up":{"model": "simonsmod:slab", "x":180},
+			"down":{"model": "simonsmod:slab"},
+			"north":{ "model": "simonsmod:slab","x":90,"y": 180  },
+			"south":{ "model": "simonsmod:slab","x":90},
+			"west":{ "model": "simonsmod:slab","x":90,"y": 90},
+			"east":{ "model": "simonsmod:slab","x":90,"y": 270}
+		}
+		
+    }
+}
+
